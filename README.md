@@ -11,17 +11,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 💡 Skills
 
 **Programming Languages**
-- 🧱 HTML + CSS
-- ⚙️ JavaScript
-- 🐍 Python
+- HTML + CSS
+- JavaScript
+- Python
 
 **Frameworks & Libraries**
-- ⚛️ React.js
-- 📦 NPM
-- 🎨 Bootstrap
+- React.js
+- NPM
+- Bootstrap
 
 **Tools & Technologies**
-- 🛠️ Git & GitHub
+- Git & GitHub
 
 ## 🚀 Projects
 
