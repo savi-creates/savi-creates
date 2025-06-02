@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🌱 I'm continuously learning and exploring new programming languages and frameworks.
 - 🔭 I'm particularly interested in artificial intelligence and creating fully responsive and user-friendly websites.
 - 📫 How to reach me: [savannahandresson@gmail.com](mailto:savannahandresson@gmail.com)
-- 📁 My portfolio: [SaviCreates](https://www.savicreates.com/)
+- 📁 My portfolio: [savicreates](https://www.savicreates.com/)
 
 ## 💡 Skills
 
